@@ -1,0 +1,13 @@
+{
+    "name": "ContactBook",
+    "alias": "contactbook",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ContactBook\\Providers\\ContactBookServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
